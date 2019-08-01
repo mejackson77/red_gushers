@@ -1,0 +1,2 @@
+module myFirstBot {
+}
